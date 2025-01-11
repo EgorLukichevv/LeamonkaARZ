@@ -1,0 +1,1 @@
+{"query":[{"number":1,"name":"Leamonka","ip":"65.108.99.34","port":1631,"online":349,"maxplayers":500,"password":false}]}
