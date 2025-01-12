@@ -1,0 +1,1 @@
+{"arizona":[{"number":1,"name":"Leamonka","ip":"65.108.99.34","port":1631,"online":0,"maxplayers":500,"password":false,"vk":"","tg":"https://t.me/Arizona_Leamon","inst":"","icon":"https://arizona-recovery.react.domains/desktop/resources/icons/arizona/1.png"}]}
